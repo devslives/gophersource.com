@@ -1,9 +1,8 @@
 ---
 title: Go Study Group
 description: |
-  The study group is a great way to not only _lurk 'n learn_ Go, but meet other
-  people in the community. Everyone is welcome regardless of background or 
-  experience with Go!
+  The study group is a great way to not only lurk 'n learn but meet other
+  people in the community. Everyone welcome!
 image: "https://gophersource.com/img/learn.png"
 ---
 
