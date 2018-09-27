@@ -5,4 +5,4 @@ theme = "gopher"
 
 [params]
   description = "An open-source adventure for gophers"
-  image = "https://gophersource.com/img/gopher-balloons.wide.png"
+  image = "https://twiter-card--gophersource.netlify.com/img/gopher-balloons.wide.png"
