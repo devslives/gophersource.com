@@ -1,6 +1,6 @@
 ---
 title: GopherSource
-description: An open-source adventure for gophers
+description: an open-source adventure for gophers
 ---
 
 GopherSource is an initiative to strengthen and diversify the Go ecosystem through
