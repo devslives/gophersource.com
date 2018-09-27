@@ -3,7 +3,7 @@ title: Go Study Group
 description: |
   The study group is a great way to not only lurk 'n learn but meet other
   people in the community. Everyone welcome!
-image: "https://gophersource.com/img/learn.twitter.png"
+image: "/img/learn.png"
 ---
 
 The study group is a really casual meeting, similar to an unconference. You
